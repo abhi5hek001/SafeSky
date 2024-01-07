@@ -3,7 +3,7 @@
 ![Team](screenshots/sihBanner.png)
 
 ## Team Vishisht
-![Team](screenshots/services.png)
+![Team](screenshots/team.png)
 
 ## Services
 ![Team](screenshots/services.png)
