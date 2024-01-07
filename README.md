@@ -1,4 +1,6 @@
-# SafeSky: A Revolutionary Aerial Hazard Monitoring System
+# SafeSky: Revolutionary Aerial Hazard Monitoring System
+## Smart India Hackathon 2023 GRAND FINALE Project
+![Team](screenshots/sihBanner.png)
 
 ## Team Vishisht
 ![Team](screenshots/services.png)
