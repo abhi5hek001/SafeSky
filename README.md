@@ -14,6 +14,9 @@
 ### AQI Report
 ![Team](screenshots/aqi.png)
 
+### Hazard Monitoring
+![Team](screenshots/HazardMonitoring.png)
+
 ### Chat with SkyBot
 ![Team](screenshots/chatbot.png)
 
